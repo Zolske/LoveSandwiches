@@ -132,6 +132,7 @@ def main():
 
 
 print("Welcome to Love Sandwiches Data Automation")
-print('\033[H\033[J', end='')
+# print('\033[H\033[J', end='')
 main()
+print('\033[H\033[J', end='')
 # create requirements.txt | pip3 freeze > requirements.txt
